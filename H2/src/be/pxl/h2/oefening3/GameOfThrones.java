@@ -1,4 +1,4 @@
-package be.pxl.h2.oefening3;
+/*package be.pxl.h2.oefening3;
 
 public class GameOfThrones {
 
