@@ -20,7 +20,7 @@ public class Pokedex {
         for (int i = 0; i < pokemons.length; i++) {
             if (pokemons[i] == null) {
                 pokemons[i] = pokemon;
-                return; // Stop after adding
+                return;
             }
         }
     }

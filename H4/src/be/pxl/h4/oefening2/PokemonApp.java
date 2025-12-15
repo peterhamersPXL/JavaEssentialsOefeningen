@@ -3,8 +3,6 @@ package be.pxl.h4.oefening2;
 import java.util.Random;
 
 public class PokemonApp {
-    // Enkele Pokemon om in ons programma mee te werken.
-    // Dit mag zeker aangevuld worden.
     public static Pokemon[] list = {
             new Pokemon("Pikachu", "Electrical"),
             new Pokemon("Bulbasaur", "Grass"),
